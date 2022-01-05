@@ -1,0 +1,8 @@
+instalar openJDk Azul
+
+criar variavel de ambiente com o caminho de extração do JDk
+
+Criar Path com \bin 
+
+Instalação Eclipse e IntelliJ - Readme no repositório do curso-dio-dominando-ides-java
+ 
