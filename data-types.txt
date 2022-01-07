@@ -1,0 +1,16 @@
+DATA TYPES:
+
+numerals:
+byte
+short
+int
+long
+float
+double
+
+text:
+char
+string
+
+logicals:
+boolean
