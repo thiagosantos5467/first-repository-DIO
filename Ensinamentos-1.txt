@@ -1,8 +1,8 @@
-instalar openJDk Azul
+Instalar openJdk - Azul
 
-criar variavel de ambiente com o caminho de extração do JDk
+Criar variavel de ambiente com o caminho de extração do Jdk
 
 Criar Path com \bin 
 
-Instalação Eclipse e IntelliJ - Readme no repositório do curso-dio-dominando-ides-java
+Instalação Eclipse e IntelliJ - Passo a passo no readme no repositório do curso-dio-dominando-ides-java
  
