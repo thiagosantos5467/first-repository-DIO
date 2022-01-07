@@ -1,0 +1,27 @@
+Padrão de definição de variáveis em java:
+
+<visibilidade><modificador> tipo nome <=valor inicial>
+
+visibilidade: "public", "protected", "private".
+modificador: "static", "final".
+tipo: tipo de dado.
+nome: nome da variável.
+valor: valor atribuído.
+
+Palavras reservadas:
+
+abstract, continue, for, new, switch, assert, default, goto, package, synchronizedboolean, do, if, private, this, break, double, case, enum, instanceof, return, transient, catch, extends, int, short, try, char, final, interface, static, void, class, finally, long, strictfp, volatile, const, float, native, super, while.
+
+Boas praticas:
+
+Começar a variável com letra minúscula.
+Nomes bem definidos.
+Notação camelo().
+Quando constante(final), escrever tudo maiúsculo e separado por "_".
+
+Exemplos:
+
+int variavelExemplo;
+int final CONSTANTE_EXEMPLO = 10;
+int t = 2;
+
