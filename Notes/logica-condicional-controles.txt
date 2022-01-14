@@ -32,6 +32,12 @@ Evitar muitos if's aninhados.
 Usar variáveis auxiliares para facilitar o entendimento.
 
 
+Blocos:
+
+Locais: dentro de métodos.
+Estaticos: dentro de classes.
+Instância: dentro de classes.
+
 
 
 
