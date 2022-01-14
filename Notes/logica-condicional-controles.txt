@@ -1,0 +1,40 @@
+Operadores relacionais:
+
+igualdade: ==
+diferença: !=
+
+maior: >
+maior ou igual: >=
+
+menor: <
+menor ou igual: <=
+
+
+Operadores lógicos:
+
+Conjunção: && (e, verdade quando ambos iguais)
+Disjunção: || (ou, verdade quando ambos diferentes)
+Disjunção exclusiva: ^ (xor, verdade quando opostos)
+Negação: ! (inverção de valor)
+
+
+Estrutura de controle:
+
+Decisao: If, If-Else, If-Else-If, Switch e operador ternario(condição?true:false; EVITAR O USO)
+Repetição:  For, While, Do While.
+
+Interrupção: Break, continue, return.
+
+Boas praticas: 
+Usar if para expressões booleanas e switch para valores exatos.
+Usar default para indicar que "algo está errado".
+Evitar muitos if's aninhados.
+Usar variáveis auxiliares para facilitar o entendimento.
+
+
+
+
+
+
+
+
