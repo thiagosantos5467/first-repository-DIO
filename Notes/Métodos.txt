@@ -1,0 +1,58 @@
+Operadores matemáticos em Java:
+
+Prioridades de execução;
+1 - Pós-fixado: exp++ , exp--(adiciona/subtrai após a expressão)
+2 - Pré-fixado: ++exp , --exp(adiciona/subtrai antes da expressão)
+3 - Aritimético: * , /, %, +, -
+4 - Atribuição: =, +=, -=, *=, /=, e %=
+
+Exemplos:
+
+int x = ++k; > x = k+1;
+int z = --k; > z = k; k = k-1;
+
+
+Conversão:
+
+upcast - implícito
+downcast - explicito
+
+exemplos:
+
+long x; int y = 10; x = y (não houve perda de dados)
+int y; long x = 10; x = (int)y
+
+double a; float b = 10.5f; a = b;
+float b; double a = 10.5d; b = (float)a;
+
+int i; float f = 10.5f; i = (int)f;(houve perda de dados, i = 10 e não 10.5 por ser um valor inteiro)
+
+
+Métodos:
+
+visibilidade - tipo - modificador - retorno - nome - parametros - exceções - corpo.
+
+V - public, protected, private
+T - concreto ou abstrato
+M - static ou final
+R - tipo de dado ou "void" (obrigatório)
+N - nome do método (obrigatório)
+P - parâmetros do método
+E - exceções que pode lançar
+C - código ou vazio (obrigatório)
+
+Exemplos:
+
+public String getNome(){...}
+public double calcularTotalNota(){...}
+
+Utilização métodos:
+
+nome_da_classe.nome_do_metodo(...);
+nome_do_objeto.nome_do_metodo(...);
+
+Math.random(); (classe, primeira letra maiúscula)
+usuario.getEmail(); (objeto, primeira letra minúscula)
+
+
+356130116614301

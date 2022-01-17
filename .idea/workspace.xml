@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3fb248ff-9f0d-4d0d-84f9-87bf82e45835" name="Changes" comment="" />
+=======
+    <list default="true" id="db988447-2581-4995-a0ed-2c95531131bc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 013059eeef361f58fa1373bdbbb147f5fecb6090
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +22,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="23TM8Z9jxJWsMvXHH29xGBJdczD" />
+=======
+  <component name="ProjectId" id="23bdD5NSfUneCqGtxQCWqsEPQiV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 013059eeef361f58fa1373bdbbb147f5fecb6090
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,18 +35,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 013059eeef361f58fa1373bdbbb147f5fecb6090
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="3fb248ff-9f0d-4d0d-84f9-87bf82e45835" name="Changes" comment="" />
       <created>1641753471035</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641753471035</updated>
+=======
+      <changelist id="db988447-2581-4995-a0ed-2c95531131bc" name="Changes" comment="" />
+      <created>1642006598400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642006598400</updated>
+>>>>>>> 013059eeef361f58fa1373bdbbb147f5fecb6090
     </task>
     <servers />
   </component>
