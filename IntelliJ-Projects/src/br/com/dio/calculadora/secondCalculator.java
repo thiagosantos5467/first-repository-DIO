@@ -21,7 +21,7 @@ public class secondCalculator {
 
         calc = scan.nextInt();
 
-        switch(calc) {
+        switch (calc) {
             case 1:
                 System.out.println("The sum is: " + soma(a, b));
                 break;
